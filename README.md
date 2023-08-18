@@ -1,4 +1,4 @@
-# Crop Recommendation System Using Machine Learning
+# Crop Recommendation
 # Description
 The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops based on various environmental and soil conditions. It aims to assist farmers and agricultural professionals in making informed decisions about crop selection, optimizing yields, and maximizing profitability.
 
@@ -21,7 +21,7 @@ Flask: Web framework used for building the user interface and handling HTTP requ
 HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
 # Installation and Usage
-Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
+Clone the repository: git clone https://github.com/kibetamos/ML_Crop_Recommendation.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
 Access the application through the web browser at http://localhost:5000
